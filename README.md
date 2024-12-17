@@ -8,7 +8,7 @@ Therefore, this little `readme` will cover it.
 
 Before you start:
 
-* Creat your FriendlyCaptcha account to obtain a key
+* Create your FriendlyCaptcha account to obtain a key
 * Install the FriendlyCaptcha sdk 
 
 ## Building the page component
